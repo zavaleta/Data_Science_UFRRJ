@@ -1,2 +1,3 @@
-# Data_Science_UFRRJ
-Curso de Extensão sobre Python para Data Science.
+# Universidade Federal Rural do Rio de Janeiro
+## Curso de Extensão
+## Python para Data Science
