@@ -8,7 +8,9 @@
 1. [Introdução](pdf/Python_para_data_science_rural.pdf)
 2. [Instalação do Python](https://youtu.be/mk3PAthQ-UE)
 3. [Ambiente de Programação: python 3, jupyter notebook, pacotes e github](ds_rural_modulo_1.ipynb)
-4. Python I: tipos de dados, sequências e operações, estruturas de controle e repetição
+4. Python Básico:
+	1. [Tipos de dados, sequências e operações](M1_1_Tipos_de_dados.ipynb)
+	2. [Estruturas de controle e repetição](M1_2_Estruturas_de_controle.ipynb)
 5. Prática dos conteúdos estudados: construindo e operando listas e strings
 
 ## Módulo 2:
