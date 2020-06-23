@@ -14,8 +14,8 @@
 5. Prática dos conteúdos estudados: construindo e operando listas e strings
 
 ## Módulo 2:
-1. Numpy I: array, slicing, fancy index, copy and view
-2. Pandas I: dataframes, series, index, Pandas I/O (csv, json, excell)
+1. [Numpy](M2_1_numpy.ipynb) - Biblioteca de Computação científica com Python.
+2. [Panda](M2_2_pandas.ipynb) - Biblioteca de classes e funções para ánalise de dados.
 3. Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv
 
 ## Módulo 3:
