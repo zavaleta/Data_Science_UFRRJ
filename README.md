@@ -19,10 +19,10 @@
 3. Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv
 
 ## Módulo 3:
-1. [Numpy e Matplotlib](M3_1_Pandas_graficos.ipynb): operações com array, broadcasting, construção de gráficos usuais
-2. [Pandas e gráficos](M3_2_Graficos.ipynb) - limpeza de dados e estatísticas básicas
-3. Prática dos conteúdos estudados: manipulando dados do ensino médio
+1. [Numpy e Matplotlib](M3_1_Pandas_graficos.ipynb): operações com array, limpeza de dados usando Pandas e construção de gráficos usuais.
+2. [Pandas e gráficos](M3_2_Graficos.ipynb) - Gráficos avanzados, estatísticas básicas.
+3. Prática dos conteúdos estudados: manipulando dados do covid19.
 
 ## Módulo 4:
-1. Scikit learn: introdução a mecanismos de clustering, regressão e classificação
+1. [Scikit learn](): introdução a mecanismos de clustering, regressão e classificação
 2. Prática dos conteúdos estudados: clusterizando e predizendo o desempenho de escolas do ensino médio.
