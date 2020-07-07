@@ -24,5 +24,6 @@
 3. Prática dos conteúdos estudados: manipulando dados do covid19.
 
 ## Módulo 4:
-1. [Scikit learn](): introdução a mecanismos de clustering, regressão e classificação
-2. Prática dos conteúdos estudados: clusterizando e predizendo o desempenho de escolas do ensino médio.
+1. [Introdução a Machine Learning](pdf/Python_machine_learning_rural.pdf)
+2. [Machine Learning](M4_1_Machine_Learning.ipynb): introdução a mecanismos de clustering, regressão e classificação
+3. Prática dos conteúdos estudados: clusterizando e predizendo o desempenho de escolas do ensino médio.
