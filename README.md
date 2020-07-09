@@ -26,4 +26,4 @@
 ## Módulo 4:
 1. [Introdução a Machine Learning](pdf/Python_machine_learning_rural.pdf)
 2. [Machine Learning](M4_1_Machine_Learning.ipynb): introdução a mecanismos de clustering, regressão e classificação
-3. Prática dos conteúdos estudados: clusterizando e predizendo o desempenho de escolas do ensino médio.
+3. [Aplicação](M4_2_ML_aplicacoes.ipynb) - Prática dos conteúdos estudados: clusterizando e predizendo o desempenho de escolas do ensino médio.
